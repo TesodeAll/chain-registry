@@ -110,7 +110,12 @@
         "id": "a25c37941e272b5ed0ea40e8f39e95c0d9c55083",
         "address": "178.63.105.185:26656",
         "provider": "Everstake"
-      }      
+      },
+       {
+        "id": "3f5fcc3c8638f0af476e37658e76984d6025038b",
+        "address": "134.209.203.147:26656",
+        "provider": "Allnodes"
+      }       
     ]
   },
   "apis": {
